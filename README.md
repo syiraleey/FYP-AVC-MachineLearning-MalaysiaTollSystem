@@ -6,7 +6,7 @@
 
 #### Project Title
 
-Automated Vehicles Classification (Avc) Using Machine Learning Implementation In Malaysia’s Toll System
+Automated Vehicles Classification (AVC) Using Machine Learning Implementation In Malaysia’s Toll System
 
 #### MEMBERS
 
